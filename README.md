@@ -1,9 +1,9 @@
-# Hey 👋, I'm Jerry Mansur!
+# Hey 👋, I'm Andama Mansur!
 - 👀 I’m interested in continuous learning
-- 🌱 I’m currently learning ***HTML*** and ***CSS***
+- 🌱 I’m currently learning ***HTML***, ***CSS*** and ***JavaScript***
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contact-me email: jerrymansurjoe@gmail.com
-- 😄 Pronouns: ***Giant - Wolf***
+- 📫 Contact-me email: andamamansur82@gmail.com
+- 😄 Pronouns: ***A-mansur***
 - ⚡ Fun fact: ...
 
 
